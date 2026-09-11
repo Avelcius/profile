@@ -19,17 +19,17 @@ Feel free to reach out if you want to chat about tech, collaborate on a project,
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://gstats-two.vercel.app/api?username=Avelcius&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Avelcius' GitHub stats" style="width: 48%;" />
-  <img src="https://gstats-two.vercel.app/api/top-langs/?username=Avelcius&layout=compact&theme=dracula&count_private=true" alt="Top Languages" style="width: 48%;" />
+  <img src="https://gstats-two.vercel.app/api?username=AvelcFox&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Avelcius' GitHub stats" style="width: 48%;" />
+  <img src="https://gstats-two.vercel.app/api/top-langs/?username=AvelcFox&layout=compact&theme=dracula&count_private=true" alt="Top Languages" style="width: 48%;" />
 </div>
 
 ## Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avelcius&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvelcFox&theme=dracula)
 
 ## Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Avelcius&theme=dracula)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AvelcFox&theme=dracula)
 
 ## Other
 
